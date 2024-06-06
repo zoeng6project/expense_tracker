@@ -9,7 +9,7 @@ import { auth } from '../firebase/firebase';
 import styles from '../styles/landing.module.scss';
 import { set } from 'date-fns';
 
-const REDIRECT_PAGE = '/dashboard';
+const REDIRECT_PAGE = '/dashboard.html';
 
 const uiConfig = {
   signInFlow: 'popup',
