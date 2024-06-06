@@ -2,6 +2,7 @@
 https://expense-tracker-6819d.web.app/
 
 dummy@outlook.com , password : 0987654321 
+you can also create your account
 
 #_ Building an Expense Tracker Web App with Firebase and React
 https://www.youtube.com/watch?v=q2RZOiUD5E0
